@@ -1,0 +1,36 @@
+.agc_token_page_wrap .form_row{
+	margin-bottom: 10px;
+}
+
+.agc_token_page_wrap label{
+	display: inline-block;
+	min-width: 100px;
+}
+
+.agc_token_page_wrap .agc_token_error{
+	color: red;
+	word-break: break-word;
+    max-width: 800px;
+	font-weight: bold;
+}
+
+.agc_token_success{
+	color: #0071a1;
+	font-weight: bold;
+	max-width: 800px;
+	word-break: break-word;
+}
+
+.agc_token_page_wrap input[name="agc_submit"]{
+	cursor: pointer;
+}
+
+.agc_token_page_wrap .instructions ul{
+	list-style: disc;
+	padding-left: 15px;
+}
+
+.agc_token_page_wrap .instructions li{
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
